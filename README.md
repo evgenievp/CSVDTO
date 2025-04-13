@@ -12,7 +12,7 @@ This is a Spring Boot REST API that demonstrates how to use DTOs (Data Transfer 
 
  Used
 
-- Java 17+
+- Java 24
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL (with Docker)
